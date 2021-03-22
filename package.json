@@ -1,0 +1,16 @@
+{
+  "name": "brujulaconstituyente",
+  "version": "1.0.0",
+  "description": "Elige representante constituyente que mas se acerca a tu pensamiento politico",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Brayan Ibarra",
+  "license": "ISC"
+}
